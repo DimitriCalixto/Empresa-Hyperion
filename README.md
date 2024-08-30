@@ -1,3 +1,7 @@
+Configuração do Ambiente:
+
+-
+
 Escopo do Projecto:
 
 - Adição dos membros no repositorio;
